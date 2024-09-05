@@ -1,2 +1,2 @@
-# pythonsdk
-Python SDK - For building Bots using Python
+# sdk
+SDK - For building Bots using Python, NodeJS, Dotnet
